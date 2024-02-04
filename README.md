@@ -18,7 +18,7 @@ Implementing a Set, Counter, and Hashtable in C.
 First part of making a Tiny Search Engine:
 The crawler crawls a website and retrieves webpages starting with a specified URL. It parses the initial webpage, extracts any embedded URLs and retrieves those pages, and crawls the pages found at those URLs, but limits itself to some threshold number of hops from the seed URL, and avoids visiting any given URL more than once. It saves the pages, and the URL and depth for each, in files.
 
-## Viterbi
+## Viterbi (Java):
 
 Program makes use of the Viterbi Algorithm to categorize words into certain parts of speech. Utilizes data from Brown texts to train and test (in test subfolder)
 
