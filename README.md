@@ -9,13 +9,33 @@ I'm currently a freshman at Dartmouth College interested in studying Computer Sc
 I have some projects I've made in C and Java that I have stored as private repos:
 Please just let me know if you want access!  (email: evzhang05@gmail.com or evan.l.zhang.27@dartmouth.edu)
 
-## Leveraging YOLOv8 Deep Learning Model for Barnacle Detection
+## Leveraging YOLOv8 Deep Learning Model for Barnacle Detection:
 
 I developed and trained a YOLOv8 object detection model to identify and count barnacles based on hand-annotated images in CVAT.  Iteratively improved the model’s performance by augmenting the dataset and refining annotations.
 
 - Iteration 1: Initial dataset of ~20 images resulted in low confidence (~0.015).
 - Iteration 2: Enhanced dataset with ~50 more images and augmented the data with rotated images, improving model confidence to 0.6–0.7.
 - Iteration 3: Added hundreds more manually annotated images, totaling 250, achieving >0.8 confidence with pretty effective detection results.
+
+## Space Adventure:
+
+Space Adventure is a Space-Themed Game where the player wanders around exploring a spaceship. The goal is to ultimately figure out how to entire the cockpit and move the spaceship to a mysterious green portal.
+
+I made this game to learn about VR/AR development in Unity. I watched tutorials by Valem Tutorials on Youtube which was super helpful. The majority of the assets here come from Valem.
+
+**Parts of the Project**
+
+- Built the environment using space prefabs
+- Lighting
+- Grabbing script for objects and interactions
+- Movement and teleportation on right hand
+- Button and door interaction
+- Ladder
+- Wheel and lever for "moving" the spaceship
+- Game story with narration
+- Menu and UI
+- In-game audio
+- Optimizing build (like baking)
 
 ## TSE (C):
 
