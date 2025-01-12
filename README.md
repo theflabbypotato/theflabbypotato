@@ -13,9 +13,9 @@ Please just let me know if you want access!  (email: evzhang05@gmail.com or evan
 
 I developed and trained a YOLOv8 object detection model to identify and count barnacles based on hand-annotated images in CVAT.  Iteratively improved the model’s performance by augmenting the dataset and refining annotations.
 
-Iteration 1: Initial dataset of ~20 images resulted in low confidence (~0.015).
-Iteration 2: Enhanced dataset with ~50 more images and augmented the data with rotated images, improving model confidence to 0.6–0.7.
-Iteration 3: Added hundreds more manually annotated images, totaling 250, achieving >0.8 confidence with pretty effective detection results.
+- Iteration 1: Initial dataset of ~20 images resulted in low confidence (~0.015).
+- Iteration 2: Enhanced dataset with ~50 more images and augmented the data with rotated images, improving model confidence to 0.6–0.7.
+- Iteration 3: Added hundreds more manually annotated images, totaling 250, achieving >0.8 confidence with pretty effective detection results.
 
 ## TSE (C):
 
