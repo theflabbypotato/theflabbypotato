@@ -9,6 +9,17 @@ I'm currently a freshman at Dartmouth College interested in studying Computer Sc
 I have some projects I've made in C and Java that I have stored as private repos:
 Please just let me know if you want access!  (email: evzhang05@gmail.com or evan.l.zhang.27@dartmouth.edu)
 
+## Gamified Goal Tracker
+
+A web app that helps users build habits and achieve goals through XP-based progression, skill tracking, and daily consistency. Features fun visuals, goal streaks, and AI-generated skill icons.
+
+### Tech Stack
+- React + Vite
+- Node.js + Express
+- PostgreSQL
+- OpenAI DALL-E API
+- Axios, CSS Modules
+
 ## Leveraging YOLOv8 Deep Learning Model for Barnacle Detection:
 
 I developed and trained a YOLOv8 object detection model to identify and count barnacles based on hand-annotated images in CVAT.  Iteratively improved the model’s performance by augmenting the dataset and refining annotations.
